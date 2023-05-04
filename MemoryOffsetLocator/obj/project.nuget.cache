@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Or+77bmY5+CcyoCfte/VsuqX80m1ltycPUhy90bCcXYXihVmzVEYKvwQjnxT0iLH41vir7azuVskdso3kOMIJg==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Projects\\MemoryOffsetLocator\\MemoryOffsetLocator\\MemoryOffsetLocator.Engine.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Achiko\\.nuget\\packages\\stylecop.msbuild\\6.2.0\\stylecop.msbuild.6.2.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Achiko\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
